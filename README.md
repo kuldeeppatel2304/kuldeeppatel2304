@@ -56,11 +56,10 @@
 
 ---
 
-## 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kuldeeppatel2304&theme=tokyonight" />
-</p>
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/kuldeeppatel2304/kuldeeppatel2304/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
