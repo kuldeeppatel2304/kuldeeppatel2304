@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kuldeep Patel</h1>
-<h3 align="center">Website Developer | Digital Marketing Specialist</h3>
+<h3 align="center">🚀 Website Developer | Digital Marketing Specialist</h3>
 
 <p align="center">
   <a href="https://www.kuldeeppatel.in" target="_blank">
@@ -9,17 +9,17 @@
 
 ---
 
-### 💡 About Me
+## 💡 About Me
 
-- 💻 Website Developer with a focus on **modern, scalable, and SEO-friendly websites**
+- 💻 Website Developer focused on **modern, scalable & SEO-friendly websites**
 - 📈 Digital Marketing Specialist helping brands grow online
-- 🎨 UI/UX enthusiast working with **Figma & real-world implementations**
-- 🚀 Experience with **business, accounting, and service-based websites**
-- 🤝 Open to freelance, collaboration & long-term projects
+- 🎨 UI/UX enthusiast (Figma → Real Implementation)
+- 🚀 Experience in **business, accounting & service-based websites**
+- 🤝 Open for **freelance, collaboration & long-term projects**
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://www.kuldeeppatel.in" target="_blank">
@@ -32,7 +32,7 @@
 
 ---
 
-### 🛠️ Languages & Frameworks
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,wordpress" />
@@ -40,7 +40,7 @@
 
 ---
 
-### 🎨 Design & Marketing Tools
+## 🎨 Tools & Design
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,ps,ai,git,github" />
@@ -48,15 +48,32 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📈 GitHub Activity (LIVE Timeline 🔥)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kuldeeppatel2304&show_icons=true&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kuldeeppatel2304&theme=tokyo-night" />
 </p>
 
 ---
 
-### ☕ Support My Work
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kuldeeppatel2304&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 What I Focus On
+
+- ⚡ Performance Optimized Websites  
+- 📊 SEO & Digital Growth  
+- 💼 Business Automation Tools  
+- 🤖 AI-based Solutions  
+
+---
+
+## ☕ Support My Work
 
 <p>
   <a href="https://www.buymeacoffee.com/">
@@ -66,4 +83,10 @@
 
 ---
 
-⭐ _Thanks for visiting my profile! Feel free to explore my repositories and connect with me._
+## 💬 Quote
+
+> "Consistency beats talent when talent doesn't work hard." 🚀
+
+---
+
+⭐ **Thanks for visiting my profile! Let's build something amazing together.**
